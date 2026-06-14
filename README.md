@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on multiple projects while continuously expanding my knowledge and skills.👯 I’m open to collaborating on interesting projects where I can contribute and grow as a developer.🤝 I’m actively seeking my first internship or junior role to gain real-world experience and add value to a team.🌱 I’m currently focused on Machine Learning, as well as UI/UX Design.💬 Feel free to ask me about movies, books, video games, or anything related to coding and tech.⚡ Fun fact: I started my journey at a young age, and over the past few years I’ve gained hands-on experience and earned multiple certifications along the way.
+Full-stack developer focused on building scalable web applications and automating workflows. I specialize in turning complex requirements into clean, functional code. I have a strong foundation in modern web technologies and a passion for optimizing system performance and user experience.
 
 
 # 💻 Tech Stack:
