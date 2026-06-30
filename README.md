@@ -22,3 +22,59 @@ Hi there, I'm Amer! 👋<br><br>I'm a passionate Full-Stack Software Engineer wh
 [![](https://komarev.com/ghpvc/?username=Amertos&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+<!-- Animated Banner -->
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20AMER%20BIBEROVIC&fontSize=42&desc=Full-Stack%20Software%20Engineer&descColor=8AFF57&animation=fadeIn" />
+</div>
+
+<br/>
+
+<!-- Typing SVG -->
+<div align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&color=CAFF3C&center=true&vCenter=true&width=820&lines=$+whoami+%E2%86%92+Full-Stack+Software+Engineer;$+skills+%E2%86%92+React+%7C+Python+%7C+Node.js+%7C+Three.js;$+cat+open-to.txt+%E2%86%92+AI,+Web3,+FinTech" />
+</div>
+
+<br/>
+
+<!-- Info Badges Row -->
+<div align="center">
+  <img src="https://img.shields.io/badge/@am3rr__bibba-0A0F08?style=flat-square&logo=instagram&logoColor=CAFF3C&label=Instagram&labelColor=0A0F08&color=CAFF3C" />
+  <img src="https://img.shields.io/badge/amerbiberovic12@gmail.com-0A0F08?style=flat-square&logo=gmail&logoColor=CAFF3C&label=Email&labelColor=0A0F08&color=CAFF3C" />
+</div>
+
+<br/>
+
+<!-- CTA Buttons -->
+<div align="center">
+  <a href="https://linkedin.com/in/Amer%20Biberovic"><img src="https://img.shields.io/badge/LINKEDIN-0A0F08?style=for-the-badge&logo=linkedin&logoColor=0A0F08&labelColor=CAFF3C&color=CAFF3C" /></a>
+  <a href="mailto:amerbiberovic12@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0A0F08?style=for-the-badge&logo=gmail&logoColor=0A0F08&labelColor=CAFF3C&color=CAFF3C" /></a>
+  <a href="https://github.com/Amertos"><img src="https://img.shields.io/badge/GITHUB-0A0F08?style=for-the-badge&logo=github&logoColor=0A0F08&labelColor=CAFF3C&color=CAFF3C" /></a>
+</div>
+
+<br/>
+
+<!-- Profile Stats -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Amertos&label=Profile%20Views&color=CAFF3C&style=flat-square&labelColor=0A0F08" />
+  <a href="https://github.com/Amertos?tab=followers"><img src="https://img.shields.io/github/followers/Amertos?label=Followers&style=flat-square&color=CAFF3C&labelColor=0A0F08&logo=github" /></a>
+  <a href="https://github.com/Amertos"><img src="https://img.shields.io/github/stars/Amertos?label=Stars&style=flat-square&color=CAFF3C&labelColor=0A0F08&logo=github" /></a>
+</div>
+
+<br/><br/>
+
+## `> whoami`
+
+Hi there, I'm Amer! 👋 I'm a passionate Full-Stack Software Engineer who loves blending code, artificial intelligence, and great design. I focus on writing clean code, optimizing performance, and building apps that deliver a WOW user experience. 
+
+*(Fun fact: I sometimes write scripts to automate my GitHub commits! 😉)*
+
+```bash
+$ cat .profile
+
+ROLE     =  Full-Stack Software Engineer
+DOMAIN   =  AI / 3D Web Portfolios / FinTech / Web3
+STACK    =  React / React Native / Node.js / Python / Three.js
+OPEN_TO  =  Open-source AI projects, Web3, and FinTech applications
+
