@@ -50,9 +50,9 @@ Hi there, I'm Amer! 👋<br><br>I'm a passionate Full-Stack Software Engineer wh
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=c,cs,js,ts,py,html,css,java&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,vite,flutter,threejs&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb,supabase,prisma,firebase&theme=dark" /><br/>
-  <img src="https://skillicons.dev/icons?i=git,github,npm,figma,arduino,vercel,netlify&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,tailwind,vite,flutter,threejs,reactnative&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,mongodb,supabase,prisma,firebase,pandas,numpy&theme=dark" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,npm,figma,arduino,vercel,netlify,expo&theme=dark" />
 </div>
 
 <br/>
