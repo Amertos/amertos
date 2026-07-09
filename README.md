@@ -88,10 +88,6 @@ Hi there, I'm Amer! 👋<br><br>I'm a passionate Full-Stack Software Engineer wh
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
 </div>
 
-### 🔝 Top Contributed Repo
-<div align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=Amertos&limit=5&theme=dark&combine_all_yearly_contributions=true" />
-</div>
 
 <br/>
 
