@@ -42,7 +42,7 @@
 <br/><br/>
 
 # 💫 About Me:
-Hi there, I'm Amer! 👋<br><br>I'm a passionate Full-Stack Software Engineer who loves blending code, artificial intelligence, and great design. I focus on writing clean code, optimizing performance, and building apps that deliver a WOW user experience.<br><br>🔭 **I’m currently working on:** F1 styled projects,Cybersecurity Courses and Internships<br>🌱 **I’m currently learning:** Advanced Machine Learning algorithms and 3D Web Optimization (Three.js / React Three Fiber).<br>👯 **I’m looking to collaborate on:** Open-source AI projects, Web3, and FinTech applications.<br>💬 **Ask me about:** React Native, Python, UI/UX Design, and building things from scratch.<br>📫 **How to reach me:** amerbiberovic12@gmail.com<br>        
+Hi there, I'm Amer! 👋<br><br>I'm a passionate Full-Stack Software Engineer who loves blending code, artificial intelligence, and great design. I focus on writing clean code, optimizing performance, and building apps that deliver a WOW user experience.<br><br>🔭 **I’m currently working on:** F1 styled projects,Cybersecurity Courses and Internships<br>🌱 **I’m currently learning:** Advanced Machine Learning algorithms and Ethical Hacking via TryHackMe.<br>👯 **I’m looking to collaborate on:** Open-source AI projects, Web3, and FinTech applications.<br>💬 **Ask me about:** React Native, Python, UI/UX Design, and building things from scratch.<br>📫 **How to reach me:** amerbiberovic12@gmail.com<br>        
 
 <br/>
 
