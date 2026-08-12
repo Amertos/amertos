@@ -1,6 +1,3 @@
-
-
-
 <!-- Animated Banner -->
 <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=shark&color=0A0F08&fontColor=CAFF3C&text=%3E_%20AMER%20BIBEROVIC&fontSize=50&animation=fadeIn" />
@@ -80,7 +77,9 @@ Hi there, I'm Amer! 👋<br><br>I'm a passionate Full-Stack Software Engineer wh
   <img height="165" src="https://streak-stats.demolab.com/?user=Amertos&hide_border=true&background=0A0F08&stroke=CAFF3C&ring=8AFF57&fire=CAFF3C&currStreakLabel=CAFF3C" />
   <br/><br/>
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=Amertos&hide_border=true&title_color=CAFF3C&icon_color=8AFF57&text_color=E8F5E1&bg_color=0A0F08&layout=compact" />
-  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Amertos&theme=2077" />
+  <br/><br/>
+  <!-- Git Invader Space Invaders Animation -->
+  <img width="100%" src="https://raw.githubusercontent.com/Amertos/Amertos/output/git-invader-multi-dark.svg" alt="git-invaders" />
 </div>
 
 ### ✍️ Random Dev Quote
